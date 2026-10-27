@@ -1,0 +1,8 @@
+{
+  "name": "Restaurant Sales & Quantity Forecasting using Linear Regression",
+  "description": "Production-grade restaurant sales and quantity forecasting dashboard featuring Linear Regression baseline vs. XGBoost, 30-day recursive forecasts, real data integration, and full-stack PostgreSQL/Supabase & Render deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

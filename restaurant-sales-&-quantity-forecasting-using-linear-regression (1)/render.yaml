@@ -1,0 +1,47 @@
+# Render Blueprint for Restaurant Sales & Quantity Forecasting Full-Stack Deployment
+# Deploy on Render: Dashboard -> Blueprints -> Connect Repository -> Deploy
+
+services:
+  # 1. FastAPI Machine Learning Backend Service
+  - type: web
+    name: restaurant-forecast-fastapi-backend
+    env: python
+    region: oregon
+    plan: standard
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.12
+      - key: DATABASE_URL
+        fromDatabase:
+          name: restaurant-sales-postgres
+          property: connectionString
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
+
+  # 2. React Vite Frontend Web Service
+  - type: web
+    name: restaurant-forecast-react-frontend
+    env: node
+    region: oregon
+    plan: standard
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_VERSION
+        value: 20.11.0
+      - key: VITE_API_URL
+        value: https://restaurant-forecast-fastapi-backend.onrender.com
+      - key: PORT
+        value: 3000
+
+databases:
+  # Managed PostgreSQL Database for Sales Transactions & Model Metrics
+  - name: restaurant-sales-postgres
+    databaseName: restaurant_forecast
+    user: restaurant_admin
+    region: oregon
+    plan: starter
