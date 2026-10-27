@@ -1,0 +1,211 @@
+date,food_name,category,restaurant_name,price_per_unit,Predicted_Sales,Predicted_Quantity
+2024-12-31,Egg Curry,North Indian/Breakfast,Budget Eats,123.99,2606.17,24
+2024-12-31,Vada Pav,Street/South,Budget Eats,53.46,3537.13,81
+2024-12-31,Tomato Soup (continental),Continental/Soup,Urban Dine,56.71,3831.69,73
+2024-12-31,Fish Fry (street style),Seafood/Street,Urban Dine,186.87,6460.23,33
+2024-12-31,Fish Fry (street style),Seafood/Street,Budget Eats,195.18,2541.87,12
+2024-12-31,Masala Dosa,South Indian,Budget Eats,106.5,4589.15,42
+2024-12-31,Sushi (salmon),Asian/Fusion,Elite Feast,599.69,4944.69,8
+2024-12-31,Dosa (plain),South Indian,Budget Eats,75.74,1699.15,23
+2024-12-31,Puri Sabzi,Breakfast/Street,Elite Feast,117.53,13507.62,117
+2024-12-31,Filter Coffee,Beverage/South Indian,Elite Feast,93.23,19179.14,230
+2024-12-31,Chocolate Brownie (single),Dessert/Continental,Budget Eats,179.75,1310.19,10
+2024-12-31,Veg Salad Bowl,Continental/Healthy,Elite Feast,241.38,15936.48,71
+2024-12-31,Chocolate Brownie (single),Dessert/Continental,Urban Dine,218.46,5550.85,28
+2024-12-31,Hummus + Pita,Arab,Urban Dine,174.19,2729.83,16
+2024-12-31,Spring Rolls,Chinese/Snack,Elite Feast,179.77,19900.48,124
+2024-12-31,Ice Cream (single scoop),Dessert/Beverage,Budget Eats,66.9,833.24,12
+2024-12-31,Bhel Puri,Street/Chaat,Urban Dine,79.34,12006.38,132
+2024-12-31,Mango Lassi,Beverage/Indian,Elite Feast,172.98,9734.36,63
+2024-12-31,Ice Cream (single scoop),Dessert/Beverage,Elite Feast,117.04,13007.21,102
+2024-12-31,Grilled Fish,Continental/Seafood,Elite Feast,399.96,11320.88,26
+2024-12-31,Tacos (chicken),Mexican,Urban Dine,207.24,3463.5,17
+2024-12-31,Pepperoni Pizza (small),Italian,Elite Feast,351.52,19787.68,49
+2024-12-31,Kebabs (veg paneer/tandoori),North Indian/Grill,Urban Dine,204.24,5802.05,25
+2024-12-31,Pasta Arrabbiata,Italian,Budget Eats,185.91,1950.41,10
+2024-12-31,Veg Biryani,North Indian,Elite Feast,188.14,12067.12,61
+2024-12-31,Margherita Pizza (small),Italian,Urban Dine,262.59,8163.21,31
+2024-12-31,Dal Tadka,North Indian,Urban Dine,158.71,8461.48,56
+2024-12-31,Mutton Biryani,North Indian,Elite Feast,449.54,20614.37,50
+2024-12-31,Dal Tadka,North Indian,Elite Feast,166.48,15307.72,93
+2024-12-31,Chilli Paneer,Chinese/Indo-Chinese,Budget Eats,129.0,1600.13,12
+2024-12-31,Pasta Alfredo,Continental/Italian,Elite Feast,378.96,12561.31,37
+2024-12-31,Vada Pav,Street/South,Elite Feast,49.8,14348.14,216
+2024-12-31,Egg Curry,North Indian/Breakfast,Elite Feast,211.62,14329.18,79
+2024-12-31,Gulab Jamun (2 pcs),Dessert/Indian,Urban Dine,64.25,5836.84,101
+2024-12-31,Veg Biryani,North Indian,Urban Dine,205.81,9899.2,46
+2024-12-31,Lamb Shawarma Platter,Arab,Elite Feast,527.95,11500.44,21
+2024-12-31,Butter Chicken,North Indian,Urban Dine,225.99,8090.25,40
+2024-12-31,Chicken Manchurian,Chinese (Indo-Chinese),Urban Dine,263.92,12027.21,42
+2024-12-31,Sushi (veg rolls),Asian/Continental,Urban Dine,284.71,1058.72,4
+2024-12-31,Korma (veg/chicken),North Indian/Mughlai,Elite Feast,366.71,12141.82,39
+2024-12-31,Vada Pav,Street/South,Urban Dine,49.33,6979.4,140
+2024-12-31,Bhel Puri,Street/Chaat,Budget Eats,35.09,3023.77,71
+2024-12-31,Masala Dosa,South Indian,Elite Feast,189.28,27337.96,133
+2024-12-31,Schezwan Fried Rice,Chinese,Elite Feast,220.08,21008.68,105
+2024-12-31,Pav (bread roll) — Egg / Veg,Breakfast/Street,Urban Dine,89.94,8041.17,95
+2024-12-31,Samosa (single),Snack/Street,Elite Feast,48.8,17798.9,343
+2024-12-31,Dim Sum / Momos (steamed),Chinese/Street,Budget Eats,123.25,4800.36,38
+2024-12-31,Dim Sum / Momos (steamed),Chinese/Street,Elite Feast,175.79,19729.39,128
+2024-12-31,Veg Fried Rice,Chinese,Budget Eats,139.85,5138.02,45
+2024-12-31,Naan with Garlic,Bread/Side,Urban Dine,73.89,5967.63,81
+2024-12-31,Spring Rolls,Chinese/Snack,Budget Eats,107.11,4309.19,43
+2024-12-31,Gulab Jamun (2 pcs),Dessert/Indian,Budget Eats,41.91,2179.08,56
+2024-12-31,Rasgulla (2 pcs),Dessert/Bengali,Elite Feast,76.58,5458.49,70
+2024-12-31,Burger (Chicken/Beef),Fast Food,Budget Eats,160.76,4030.4,25
+2024-12-31,Dim Sum / Momos (steamed),Chinese/Street,Urban Dine,80.42,6353.98,83
+2024-12-31,Upma,South Indian,Urban Dine,64.93,3406.15,57
+2024-12-31,Rogan Josh (mutton curry),North Indian,Budget Eats,368.44,809.78,3
+2024-12-31,Grilled Fish,Continental/Seafood,Urban Dine,386.65,4754.51,13
+2024-12-31,Burger (Chicken/Beef),Fast Food,Elite Feast,186.16,24443.26,135
+2024-12-31,Prawn Curry,Seafood/Coastal,Budget Eats,288.66,1464.88,6
+2024-12-31,Mutton Kebab,Arab/Middle Eastern,Budget Eats,334.71,967.95,3
+2024-12-31,Momos (fried),Chinese/Street,Elite Feast,118.86,24566.59,195
+2024-12-31,Chicken Manchurian,Chinese (Indo-Chinese),Elite Feast,342.59,29383.27,87
+2024-12-31,Sushi (salmon),Asian/Fusion,Urban Dine,533.34,1024.31,3
+2024-12-31,Upma,South Indian,Budget Eats,36.49,1098.4,26
+2024-12-31,Chicken Caesar Salad,Continental,Elite Feast,298.95,8755.6,32
+2024-12-31,Poha,Breakfast/Regional,Elite Feast,78.34,11060.13,136
+2024-12-31,Maggie / Instant Noodles (chef style),Snack/Quick,Elite Feast,142.86,23493.7,177
+2024-12-31,Paneer Butter Masala,North Indian,Urban Dine,275.77,8366.49,30
+2024-12-31,Sweet Corn Soup (veg),Chinese/Soup,Budget Eats,101.34,1649.65,20
+2024-12-31,Tacos (chicken),Mexican,Elite Feast,291.75,11389.54,39
+2024-12-31,Pav Bhaji,Street/Indian,Budget Eats,120.6,4876.11,40
+2024-12-31,Cold Coffee,Beverage/Continental,Elite Feast,186.74,20271.91,119
+2024-12-31,Fish Fry (street style),Seafood/Street,Elite Feast,248.62,13487.66,60
+2024-12-31,Prawn Curry,Seafood/Coastal,Elite Feast,418.61,9085.66,22
+2024-12-31,Hummus + Pita,Arab,Elite Feast,165.67,6803.71,35
+2024-12-31,Filter Coffee,Beverage/South Indian,Urban Dine,79.39,10433.42,149
+2024-12-31,Naan with Garlic,Bread/Side,Elite Feast,103.95,15266.26,178
+2024-12-31,Tacos (veg),Mexican,Elite Feast,235.25,10378.38,45
+2024-12-31,Mutton Biryani,North Indian,Budget Eats,244.99,2109.1,9
+2024-12-31,Rasgulla (2 pcs),Dessert/Bengali,Budget Eats,70.39,883.1,10
+2024-12-31,Chicken Manchurian,Chinese (Indo-Chinese),Budget Eats,192.11,4084.84,25
+2024-12-31,Momos (fried),Chinese/Street,Budget Eats,85.33,3723.27,49
+2024-12-31,Pav Bhaji,Street/Indian,Elite Feast,208.17,30839.18,165
+2024-12-31,Rasgulla (2 pcs),Dessert/Bengali,Urban Dine,93.89,3224.11,32
+2024-12-31,Masala Chai (cup),Beverage/Indian,Urban Dine,40.72,10287.18,250
+2024-12-31,Tandoori Chicken (plate),North Indian,Urban Dine,259.12,5406.0,19
+2024-12-31,Idli Sambhar,South Indian,Budget Eats,91.37,3291.64,34
+2024-12-31,Prawn Curry,Seafood/Coastal,Urban Dine,505.02,5183.62,11
+2024-12-31,Pasta Arrabbiata,Italian,Elite Feast,200.44,9353.38,46
+2024-12-31,Naan with Garlic,Bread/Side,Budget Eats,71.11,2512.74,40
+2024-12-31,Masala Chai (cup),Beverage/Indian,Elite Feast,50.8,19245.89,341
+2024-12-31,Butter Chicken,North Indian,Elite Feast,454.8,26167.4,64
+2024-12-31,Schezwan Fried Rice,Chinese,Budget Eats,174.32,4184.41,27
+2024-12-31,Grilled Fish,Continental/Seafood,Budget Eats,293.64,758.7,3
+2024-12-31,Puri Sabzi,Breakfast/Street,Urban Dine,90.02,4077.5,46
+2024-12-31,Kebabs (veg paneer/tandoori),North Indian/Grill,Elite Feast,209.91,7755.3,41
+2024-12-31,Maggie / Instant Noodles (chef style),Snack/Quick,Budget Eats,36.36,1976.04,59
+2024-12-31,Mutton Kebab,Arab/Middle Eastern,Urban Dine,303.93,5974.65,18
+2024-12-31,Gulab Jamun (2 pcs),Dessert/Indian,Elite Feast,87.47,17244.66,205
+2024-12-31,French Fries,Fast Food/Snack,Urban Dine,78.49,13907.52,182
+2024-12-31,French Fries,Fast Food/Snack,Elite Feast,149.42,36577.07,298
+2024-12-31,Falafel Wrap,Arab/Middle Eastern,Urban Dine,122.91,4669.64,36
+2024-12-31,Rogan Josh (mutton curry),North Indian,Urban Dine,404.41,3411.43,9
+2024-12-31,Kheer (small bowl),Dessert/Indian,Urban Dine,51.19,2255.48,33
+2024-12-31,Chicken Caesar Salad,Continental,Urban Dine,263.47,5183.07,20
+2024-12-31,Falafel Wrap,Arab/Middle Eastern,Budget Eats,103.85,1920.63,19
+2024-12-31,Pasta Arrabbiata,Italian,Urban Dine,299.1,4987.11,21
+2024-12-31,Aloo Paratha,North Indian/Breakfast,Budget Eats,99.86,2389.1,22
+2024-12-31,Korma (veg/chicken),North Indian/Mughlai,Budget Eats,278.76,1266.51,5
+2024-12-31,Masala Dosa,South Indian,Urban Dine,153.4,13404.83,90
+2024-12-31,Mutton Kebab,Arab/Middle Eastern,Elite Feast,320.3,11219.67,32
+2024-12-31,Samosa (single),Snack/Street,Budget Eats,26.04,4416.76,155
+2024-12-31,Sweet Corn Soup (veg),Chinese/Soup,Urban Dine,127.4,5142.58,43
+2024-12-31,Mango Lassi,Beverage/Indian,Urban Dine,60.65,2146.06,30
+2024-12-31,Filter Coffee,Beverage/South Indian,Budget Eats,65.74,4156.33,64
+2024-12-31,Sushi (veg rolls),Asian/Continental,Elite Feast,272.87,4114.93,17
+2024-12-31,Manchow Soup,Chinese/Soup,Elite Feast,176.5,14501.23,100
+2024-12-31,Egg Bhurji + Toast,Breakfast,Budget Eats,62.67,1595.02,25
+2024-12-31,Mango Lassi,Beverage/Indian,Budget Eats,58.7,606.08,8
+2024-12-31,Momos (fried),Chinese/Street,Urban Dine,145.71,15659.84,101
+2024-12-31,Chicken Biryani,North Indian,Budget Eats,192.74,5544.74,27
+2024-12-31,Paneer Butter Masala,North Indian,Elite Feast,373.1,24039.4,64
+2024-12-31,Steak (beef/veg option),Continental,Budget Eats,295.23,303.77,2
+2024-12-31,Mutton Biryani,North Indian,Urban Dine,359.98,8748.42,27
+2024-12-31,Lamb Shawarma Platter,Arab,Budget Eats,417.93,594.04,3
+2024-12-31,Poha,Breakfast/Regional,Urban Dine,73.38,7750.83,94
+2024-12-31,Pepperoni Pizza (small),Italian,Budget Eats,204.1,1571.24,8
+2024-12-31,Manchow Soup,Chinese/Soup,Budget Eats,52.59,928.6,16
+2024-12-31,Shawarma (chicken),Arab/Middle Eastern,Budget Eats,211.78,5348.72,25
+2024-12-31,Dosa (plain),South Indian,Urban Dine,63.39,4448.26,75
+2024-12-31,Tomato Soup (continental),Continental/Soup,Elite Feast,95.79,7715.29,71
+2024-12-31,Sushi (salmon),Asian/Fusion,Budget Eats,437.95,42.56,1
+2024-12-31,Kebabs (veg paneer/tandoori),North Indian/Grill,Budget Eats,179.82,1696.29,10
+2024-12-31,Aloo Paratha,North Indian/Breakfast,Elite Feast,168.47,14554.23,98
+2024-12-31,Samosa (single),Snack/Street,Urban Dine,23.1,7724.99,267
+2024-12-31,Chicken Biryani,North Indian,Elite Feast,239.17,23312.0,111
+2024-12-31,Tandoori Chicken (plate),North Indian,Elite Feast,314.29,14608.78,46
+2024-12-31,Shawarma (chicken),Arab/Middle Eastern,Urban Dine,197.58,12886.62,57
+2024-12-31,Tacos (veg),Mexican,Budget Eats,158.64,900.49,7
+2024-12-31,Dal Tadka,North Indian,Budget Eats,99.61,2645.47,25
+2024-12-31,Steak (beef/veg option),Continental,Elite Feast,495.8,8967.77,21
+2024-12-31,Burger (Veg),Fast Food,Budget Eats,69.9,2820.38,35
+2024-12-31,Pav Bhaji,Street/Indian,Urban Dine,120.85,11618.48,84
+2024-12-31,Chilli Paneer,Chinese/Indo-Chinese,Urban Dine,216.08,6763.08,30
+2024-12-31,Hakka Noodles,Chinese (Indo-Chinese),Budget Eats,109.74,3637.48,34
+2024-12-31,Veg Salad Bowl,Continental/Healthy,Budget Eats,113.56,2738.81,29
+2024-12-31,Tacos (chicken),Mexican,Budget Eats,119.58,593.8,5
+2024-12-31,Pav (bread roll) — Egg / Veg,Breakfast/Street,Budget Eats,74.16,2574.95,41
+2024-12-31,Egg Curry,North Indian/Breakfast,Urban Dine,156.07,5643.38,37
+2024-12-31,Sushi (veg rolls),Asian/Continental,Budget Eats,288.66,277.49,2
+2024-12-31,Chilli Paneer,Chinese/Indo-Chinese,Elite Feast,244.0,15737.77,74
+2024-12-31,Pasta Alfredo,Continental/Italian,Budget Eats,154.24,1643.99,12
+2024-12-31,Korma (veg/chicken),North Indian/Mughlai,Urban Dine,225.14,4069.11,17
+2024-12-31,Rogan Josh (mutton curry),North Indian,Elite Feast,371.32,8591.77,24
+2024-12-31,Ice Cream (single scoop),Dessert/Beverage,Urban Dine,87.09,3303.69,46
+2024-12-31,Masala Chai (cup),Beverage/Indian,Budget Eats,19.35,2821.14,130
+2024-12-31,Roti / Naan (single),North Indian,Urban Dine,39.37,5709.61,114
+2024-12-31,Aloo Paratha,North Indian/Breakfast,Urban Dine,119.18,7333.51,58
+2024-12-31,Sweet Corn Soup (veg),Chinese/Soup,Elite Feast,132.23,10103.65,83
+2024-12-31,Chicken Caesar Salad,Continental,Budget Eats,249.06,888.68,4
+2024-12-31,Schezwan Fried Rice,Chinese,Urban Dine,243.55,11588.27,48
+2024-12-31,Hummus + Pita,Arab,Budget Eats,150.33,973.21,7
+2024-12-31,Idli Sambhar,South Indian,Urban Dine,61.27,4778.0,86
+2024-12-31,Egg Bhurji + Toast,Breakfast,Elite Feast,121.94,14981.09,114
+2024-12-31,Cold Coffee,Beverage/Continental,Budget Eats,119.56,1881.19,19
+2024-12-31,Veg Salad Bowl,Continental/Healthy,Urban Dine,154.99,5851.84,40
+2024-12-31,Hakka Noodles,Chinese (Indo-Chinese),Urban Dine,167.41,13256.56,82
+2024-12-31,Poha,Breakfast/Regional,Budget Eats,53.22,2147.24,42
+2024-12-31,Chicken Biryani,North Indian,Urban Dine,246.27,12382.05,50
+2024-12-31,Chole Bhature,North Indian/Street,Elite Feast,253.38,21399.26,78
+2024-12-31,Hakka Noodles,Chinese (Indo-Chinese),Elite Feast,242.4,31157.28,124
+2024-12-31,Puri Sabzi,Breakfast/Street,Budget Eats,103.68,3043.43,26
+2024-12-31,Spring Rolls,Chinese/Snack,Urban Dine,152.61,10913.66,83
+2024-12-31,Steak (beef/veg option),Continental,Urban Dine,514.6,3767.09,7
+2024-12-31,French Fries,Fast Food/Snack,Budget Eats,53.84,4697.84,83
+2024-12-31,Paneer Butter Masala,North Indian,Budget Eats,235.05,2498.84,12
+2024-12-31,Roti / Naan (single),North Indian,Elite Feast,37.46,8283.9,193
+2024-12-31,Margherita Pizza (small),Italian,Elite Feast,258.9,21508.0,82
+2024-12-31,Veg Biryani,North Indian,Budget Eats,184.43,3227.53,16
+2024-12-31,Chocolate Brownie (single),Dessert/Continental,Elite Feast,120.53,7636.27,60
+2024-12-31,Kheer (small bowl),Dessert/Indian,Budget Eats,49.45,610.35,9
+2024-12-31,Maggie / Instant Noodles (chef style),Snack/Quick,Urban Dine,105.75,12545.15,121
+2024-12-31,Tacos (veg),Mexican,Urban Dine,226.47,4289.41,19
+2024-12-31,Chole Bhature,North Indian/Street,Budget Eats,169.18,3510.39,20
+2024-12-31,Pasta Alfredo,Continental/Italian,Urban Dine,164.06,4662.26,27
+2024-12-31,Burger (Veg),Fast Food,Elite Feast,153.56,24499.2,189
+2024-12-31,Pepperoni Pizza (small),Italian,Urban Dine,326.25,6489.42,19
+2024-12-31,Burger (Veg),Fast Food,Urban Dine,91.54,11389.71,129
+2024-12-31,Butter Chicken,North Indian,Budget Eats,246.38,3668.61,16
+2024-12-31,Falafel Wrap,Arab/Middle Eastern,Elite Feast,126.76,9308.8,77
+2024-12-31,Veg Fried Rice,Chinese,Urban Dine,170.24,12773.47,82
+2024-12-31,Egg Bhurji + Toast,Breakfast,Urban Dine,53.31,3892.73,60
+2024-12-31,Upma,South Indian,Elite Feast,75.02,6357.0,74
+2024-12-31,Manchow Soup,Chinese/Soup,Urban Dine,136.08,6292.2,45
+2024-12-31,Kheer (small bowl),Dessert/Indian,Elite Feast,94.29,6519.26,62
+2024-12-31,Idli Sambhar,South Indian,Elite Feast,63.1,11687.8,169
+2024-12-31,Veg Fried Rice,Chinese,Elite Feast,146.37,18506.91,135
+2024-12-31,Tandoori Chicken (plate),North Indian,Budget Eats,245.15,1562.03,7
+2024-12-31,Burger (Chicken/Beef),Fast Food,Urban Dine,196.95,15745.36,70
+2024-12-31,Chole Bhature,North Indian/Street,Urban Dine,181.13,7893.95,45
+2024-12-31,Dosa (plain),South Indian,Elite Feast,146.25,12625.26,99
+2024-12-31,Roti / Naan (single),North Indian,Budget Eats,37.21,1952.93,48
+2024-12-31,Bhel Puri,Street/Chaat,Elite Feast,56.11,16121.84,284
+2024-12-31,Cold Coffee,Beverage/Continental,Urban Dine,66.07,2682.91,42
+2024-12-31,Shawarma (chicken),Arab/Middle Eastern,Elite Feast,181.26,19203.62,104
+2024-12-31,Lamb Shawarma Platter,Arab,Urban Dine,456.89,4049.24,8
+2024-12-31,Tomato Soup (continental),Continental/Soup,Budget Eats,80.26,1692.17,22
+2024-12-31,Pav (bread roll) — Egg / Veg,Breakfast/Street,Elite Feast,92.42,17657.94,191
+2024-12-31,Margherita Pizza (small),Italian,Budget Eats,194.98,2102.45,11
